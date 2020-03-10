@@ -12,3 +12,4 @@ Important features: Parent-related variables, Child-health related variables, Sh
 
 Outcome variables: school enrollment, highest grade/education level completed, highest grade achieved at the time of each interview, reading level, and writing level
 
+The data from the Young Lives study is available through the UK Data Service, and through their portal, I have been able to download the original data from the study as well as a dataset that combines all the survey data specifically for Ethiopia. The downloaded data comes with data dictionaries that describe the different features and their values. The Ethiopia dataset contains data for 2999 children at each of the 5 rounds, so it has 14995 data points overall. This dataset contains 214 variables, which include panel information, general characteristics, household characteristics, and child characteristics. 
