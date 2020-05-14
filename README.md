@@ -3,6 +3,13 @@
 Education is widely recognized as an important factor in stimulating growth and addressing widespread poverty in developing countries. While universal access to education is a first step, the quality and impact of this education is also important. In recent years, global priorities have shifted from ensuring “access for all” to ensuring “basic skills for all”. Recent studies have shown that a child’s home situation can affect their learning, and thus prevent them from gaining these basic skills. For my senior thesis, I explored how a household shock like death of livestock can impact a child’s performance in school, and compared the efficacy of different analytical methodologies in understanding causal effect. I compared the methodologies of multivariate regression, the Rubin causal model, propensity score matching, and causal trees in evaluating the impact of the shock of death of livestock on children’s school performance. While each of these methods estimates treatment effect differently, all of the results indicate that the investigated shock has a negative impact on children’s school performance.
 
 ## Dependencies
+- [Python 3](https://www.python.org/)
+- [Jupyter](https://jupyter.org/)
+- [Anaconda](https://www.anaconda.com/)
+- [NumPy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 - [causal-tree-learn 2.31](https://pypi.org/project/causal-tree-learn/)
 
 ## Data Description
