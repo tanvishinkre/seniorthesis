@@ -4,6 +4,9 @@ For my senior thesis, I plan to explore how we can apply big data and machine le
 
 This repository will be updated throughout the year as I conduct my research.
 
+## Dependencies
+- [causal-tree-learn 2.31](https://pypi.org/project/causal-tree-learn/)
+
 ## Data Description
 
 The Young Lives surveys tracked the lives of 12,000 children over 15 years. There were five rounds of surveys conducted on two groups of children. In the first round, the children in the younger group were age 1 while children in the older group were age 5. In the second round they were 5 years old and 12 years old, in the third round they were 7-8 years old and 14-15 years old, in the fourth round they were 12 and 19 years old, and in the last round, they were 15 and 22 years old. 
